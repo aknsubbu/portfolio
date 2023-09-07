@@ -5,18 +5,20 @@ const Project = () => {
   const projectInfo = [
     {
       category: "Full Stack",
-      title: "Anand",
-      imagePath: "./anand.png",
+      title: "BLE Attendance Project",
+      imagePath: "./project1.jpeg",
       indexNumber: "01",
-      description: "BLE",
+      description: "Me and my teams constructed a Flutter App as well as a Node JS Rest-API to serve as a communication mechanism between the Database and the App. During our first year in college, we constructed this to learn about the software development process. This has given us a better understanding of the technologies and enabled us to apply them in future projects...",
+      repoLink:"https://github.com/akashShanmugraj/psgscapes-production-server"
     },
-    {
-      category: "Full Stack",
-      title: "Anand",
-      imagePath: "./anand.png",
-      indexNumber: "01",
-      description: "BLE",
-    }
+    // {
+    //   category: "Full Stack",
+    //   title: "Anand",
+    //   imagePath: "./anand.png",
+    //   indexNumber: "01",
+    //   description: "BLE",
+    //  repoLink:" "
+    // }
   ];
 
   return (
