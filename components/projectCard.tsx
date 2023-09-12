@@ -1,6 +1,18 @@
 import React from 'react'
+import Image from "next/image"
 
-const ProjectCard = ({cardInfo}) => {
+
+interface ProjectCardProps {
+  cardInfo: {
+    category: string;
+    title: string;
+    imagePath: string;
+    indexNumber: string;
+    description: string;
+    repoLink: string;
+  };
+}
+const ProjectCard: React.FC<ProjectCardProps> = ({ cardInfo }) => {
     const{
         category,
         title,

@@ -12,7 +12,7 @@ const Contact = () => {
               <span>Don&rsquo;t hesitate</span>
               <span className="font-serif italic"> to talk with me</span>
             </h1>
-            <p className="text-xl text-gray-500 font-semibold">I'm here to help always...</p>
+            <p className="text-xl text-gray-500 font-semibold">I&apos;m here to help always...</p>
           </div>
           <div className="flex flex-wrap -mx-4 items-center">
             <div className="w-full lg:w-1/2 px-4 mb-20 lg:mb-0">

@@ -6,10 +6,10 @@ const Project = () => {
     {
       category: "Full Stack",
       title: "BLE Attendance Project",
-      imagePath: "./project1.jpeg",
+      imagePath: "/project1.jpeg",
       indexNumber: "01",
-      description: "Me and my teams constructed a Flutter App as well as a Node JS Rest-API to serve as a communication mechanism between the Database and the App. During our first year in college, we constructed this to learn about the software development process. This has given us a better understanding of the technologies and enabled us to apply them in future projects...",
-      repoLink:"https://github.com/akashShanmugraj/psgscapes-production-server"
+      description: "Me and my team constructed a Flutter App as well as a Node JS Rest-API to serve as a communication mechanism between the Database and the App. During our first year in college, we constructed this to learn about the software development process. This has given us a better understanding of the technologies and enabled us to apply them in future projects...",
+      repoLink: "https://github.com/akashShanmugraj/psgscapes-production-server"
     },
     // {
     //   category: "Full Stack",
@@ -17,7 +17,7 @@ const Project = () => {
     //   imagePath: "./anand.png",
     //   indexNumber: "01",
     //   description: "BLE",
-    //  repoLink:" "
+    //   repoLink: " "
     // }
   ];
 
