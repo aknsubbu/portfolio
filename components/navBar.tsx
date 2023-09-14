@@ -12,17 +12,17 @@ const Navbar = () => {
           <ul className="flex items-center text-white space-x-10">
             <li>
               <Link href="/">
-          <a >Home</a>
+          Home
               </Link>
             </li>
             <li>
               <Link href="/project">
-          <a >Projects</a>
+          Projects
               </Link>
             </li>
             <li>
               <Link href="/contact">
-                <a >Contact</a>
+                Contact
               </Link>
             </li>
           </ul>
